@@ -1,3 +1,15 @@
+section{
+    height: 100vh;
+}
+.feature-v15{
+    height: 100vh;
+}
+
+.feature-v15__content{
+    height: 100vh;
+}
+
 .hidden{
     display: none;
 }
+
